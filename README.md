@@ -2,8 +2,8 @@
 
 A fun, browser-based egg-catching game built using vanilla JavaScript, HTML, and CSS.
 
-![ScreenShot 1](imgs/background.png)
-![ScreenShot 2](imgs/background.png)
+![ScreenShot 1](https://github.com/StevenTharwat/JS-Egg-Basket-Game/blob/main/ScreenShots/2.png)
+![ScreenShot 2](https://github.com/StevenTharwat/JS-Egg-Basket-Game/blob/main/ScreenShots/3.png)
 
 ## 🎮 Gameplay
 
