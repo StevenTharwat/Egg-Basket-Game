@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(imgs/background.png);
+    overflow: hidden;
+}
+h2{
+    margin: 10px 10px;
+    display: block;
+}
+span{
+    font-weight: 900;
+    color: purple;
+}
+.EB, .FB{
+    position: absolute;
+    left: 0px;
+    bottom: 5px;
+    width: 175px;
+
+}
+.FB{
+    visibility: hidden;
+}
+.Gegg{
+    position: absolute;
+    top:0;
+    width: 80px;
+    height: auto;
+    /* animation: eggGravity 4s; */
+}
+
+
+@keyframes eggGravity{
+    0%{
+        display: block;
+        top:0%;
+    }
+    100%{
+        display: none;
+        top:100%
+    }
+}
